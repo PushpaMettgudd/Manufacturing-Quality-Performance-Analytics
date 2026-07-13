@@ -41,6 +41,21 @@ This project answers questions such as:
 - Cost and energy consumption
 
 ---
+## Python Workflow
+
+• Loaded dataset using Pandas
+
+• Validated missing values
+
+• Checked duplicate records
+
+• Verified categorical values
+
+• Validated numerical columns
+
+• Performed Exploratory Data Analysis (EDA)
+
+• Exported clean dataset for SQL and Power BI
 
 ## Dashboard Pages
 
